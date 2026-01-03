@@ -1,13 +1,13 @@
 ![All Time Badge](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/balzeberret/interval:all_time&label=All%20time&color=b8bb26)
 
-# Marc Kenneth S. Verdugo
+# Marc Kenneth Verdugo
 Systems Integration Engineer passionate about low-level hardware and software engineering.
 ---
 
 ## 🧠 About Me
 
-- 🔧 Currently working on:  
-  - Water monitoring and control systems  
+- 🔧 Currently working on:
+  - Online Water monitoring and control systems
   - Real-time data logging and automation solutions
 
 - 🌱 Currently learning:
@@ -17,9 +17,10 @@ Systems Integration Engineer passionate about low-level hardware and software en
   - Go for backend and systems programming  
 
 - 💡 Interests:
-  - Edge computing, IoT networks  
-  - Microcontroller and SBC (Raspberry Pi, ESP32) integrations  
-  - System architecture and protocol design  
+  - retro gaming
+  - Edge computing, IoT networks
+  - Microcontroller (Raspberry Pi, ESP32) integrations  
+  - System architecture design
 
 ---
 
