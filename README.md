@@ -1,4 +1,4 @@
-[All Time Badge](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/balzeberret/interval:all_time&label=All%20time&color=b8bb26)
+![All Time Badge](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/balzeberret/interval:all_time&label=All%20time&color=b8bb26)
 
 # Marc Kenneth S. Verdugo
 Systems Integration Engineer passionate about low-level hardware and software engineering.
