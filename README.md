@@ -17,8 +17,6 @@
   - Microcontroller (Raspberry Pi, ESP32) integrations  
   - System architecture design
 
----
-
 ## ⚙ Languages and Tools
 
 ### Programming
@@ -41,11 +39,8 @@
 ![Modbus](https://img.shields.io/badge/-Modbus-98971a?style=flat&logo=protocols&logoColor=fbf1c7)
 ![FFmpeg](https://img.shields.io/badge/-FFmpeg-689d6a?style=flat&logo=ffmpeg&logoColor=282828)
 
----
-
 ## Σ Stats
 ![Wakapi Stats](https://github-readme-stats-vert-three-84.vercel.app/api/wakatime?username=balzeberret&api_domain=wakapi.dev&bg_color=282828&title_color=b8bb26&icon_color=b8bb26&text_color=fbf1c7&custom_title=Wakapi.dev+Stats+%28All+Time%29&layout=compact)
----
 
 ## ☏ Contact
 
@@ -53,4 +48,3 @@
 [![Email](https://img.shields.io/badge/-Email-d65d0e?style=flat&logo=gmail&logoColor=fbf1c7)](mailto:blaz.verdugo.s@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-1d2021?style=flat&logo=github&logoColor=fbf1c7)](https://github.com/marc-4)
 
----
