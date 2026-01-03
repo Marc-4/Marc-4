@@ -50,8 +50,8 @@ Systems Integration Engineer passionate about low-level hardware and software en
 
 ## 📊 GitHub Stats
 
-![Marc's GitHub stats](https://github-readme-stats.vercel.app/api?username=marc-4&show_icons=true&hide_title=true&count_private=true&hide=prs&bg_color=282828&title_color=b8bb26&icon_color=b8bb26&text_color=fbf1c7)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marc-4&layout=compact&bg_color=282828&title_color=b8bb26&text_color=fbf1c7)
+![Marc's GitHub stats](https://github-readme-stats-vert-three-84.vercel.app/api?username=marc-4&show_icons=true&hide_title=true&count_private=true&hide=prs&bg_color=282828&title_color=b8bb26&icon_color=b8bb26&text_color=fbf1c7)
+![Top Langs](https://github-readme-stats-vert-three-84.vercel.app/api/top-langs/?username=marc-4&layout=compact&bg_color=282828&title_color=b8bb26&text_color=fbf1c7)
 
 ---
 
