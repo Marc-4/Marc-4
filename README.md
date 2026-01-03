@@ -1,4 +1,4 @@
-![Wakapi Stats](https://github-readme-stats.vercel.app/api/wakatime?username=balzeberret&api_domain=wakapi.dev&bg_color=282828&title_color=b8bb26&icon_color=b8bb26&text_color=fbf1c7&custom_title=Wakapi.dev+Stats+%28All+Time%29&layout=compact)
+![Wakapi Stats](https://github-readme-stats-vert-three-84.vercel.app/api/wakatime?username=balzeberret&api_domain=wakapi.dev&bg_color=282828&title_color=b8bb26&icon_color=b8bb26&text_color=fbf1c7&custom_title=Wakapi.dev+Stats+%28All+Time%29&layout=compact)
 ![All Time Badge](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/balzeberret/interval:all_time&label=All%20time&color=b8bb26)
 
 # Marc Kenneth S. Verdugo
