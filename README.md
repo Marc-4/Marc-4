@@ -1,32 +1,27 @@
 ![All Time Badge](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/balzeberret/interval:all_time&label=All%20time&color=b8bb26)
+## 🛈 About Me
 
-# Marc Kenneth Verdugo
-Systems Integration Engineer passionate about low-level hardware and software engineering.
----
-
-## 🧠 About Me
-
-- 🔧 Currently working on:
+- Currently working on:
   - Online Water monitoring and control systems
   - Real-time data logging and automation solutions
 
-- 🌱 Currently learning:
+- Getting better at:
   - Linux tooling and shell scripting  
   - DevOps practices (CI/CD, Docker, GitHub Actions)  
   - Embedded systems programming in C/C++  
   - Go for backend and systems programming  
 
-- 💡 Interests:
-  - retro gaming
+- Interested in:
+  - Retro gaming
   - Edge computing, IoT networks
   - Microcontroller (Raspberry Pi, ESP32) integrations  
   - System architecture design
 
 ---
 
-## 🛠️ Languages and Tools
+## ⚙ Languages and Tools
 
-### 💻 Programming
+### Programming
 ![Go](https://img.shields.io/badge/-Go-83a598?style=flat&logo=go&logoColor=282828)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-d3869b?style=flat&logo=typescript&logoColor=282828)
 ![Python](https://img.shields.io/badge/-Python-fe8019?style=flat&logo=python&logoColor=282828)
@@ -34,7 +29,7 @@ Systems Integration Engineer passionate about low-level hardware and software en
 ![C++](https://img.shields.io/badge/-C++-b8bb26?style=flat&logo=c%2B%2B&logoColor=282828)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ebdbb2?style=flat&logo=javascript&logoColor=282828)
 
-### ⚙️ Tools & Frameworks
+### Tools & Frameworks
 ![Linux](https://img.shields.io/badge/-Linux-fabd2f?style=flat&logo=linux&logoColor=282828)
 ![Docker](https://img.shields.io/badge/-Docker-83a598?style=flat&logo=docker&logoColor=282828)
 ![Git](https://img.shields.io/badge/-Git-d65d0e?style=flat&logo=git&logoColor=fbf1c7)
@@ -48,11 +43,11 @@ Systems Integration Engineer passionate about low-level hardware and software en
 
 ---
 
-## 📊 Stats
+## Σ Stats
 ![Wakapi Stats](https://github-readme-stats-vert-three-84.vercel.app/api/wakatime?username=balzeberret&api_domain=wakapi.dev&bg_color=282828&title_color=b8bb26&icon_color=b8bb26&text_color=fbf1c7&custom_title=Wakapi.dev+Stats+%28All+Time%29&layout=compact)
 ---
 
-## 📬 Contact
+## ☎ Contact
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-458588?style=flat&logo=linkedin&logoColor=fbf1c7)](https://linkedin.com/in/marc-verdugo)
 [![Email](https://img.shields.io/badge/-Email-d65d0e?style=flat&logo=gmail&logoColor=fbf1c7)](mailto:blaz.verdugo.s@gmail.com)
