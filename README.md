@@ -47,5 +47,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-458588?style=flat&logo=linkedin&logoColor=fbf1c7)](https://linkedin.com/in/marc-verdugo)
 [![Email](https://img.shields.io/badge/-Email-d65d0e?style=flat&logo=gmail&logoColor=fbf1c7)](mailto:blaz.verdugo.s@gmail.com)
 
-Other github account
+#### Other github account
+
 [![Moonshot GitHub](https://img.shields.io/badge/-GitHub-1d2021?style=flat&logo=github&logoColor=fbf1c7)](https://github.com/Marc-Moonshot)
