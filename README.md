@@ -9,13 +9,13 @@
   - Linux tooling and shell scripting  
   - DevOps practices (CI/CD, Docker, GitHub Actions)  
   - Embedded systems programming in C/C++  
-  - Go for backend and systems programming  
+  - Go for backend and systems programming
 
 - Interested in:
   - Retro gaming
-  - Edge computing, IoT networks
-  - Microcontroller (Raspberry Pi, ESP32) integrations  
   - System architecture design
+  - Microcontroller (Raspberry Pi, ESP32) integrations
+  - Edge computing, IoT networks
 
 ## ⚙ Languages and Tools
 
