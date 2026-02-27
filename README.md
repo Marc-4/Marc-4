@@ -1,4 +1,5 @@
 ![All Time Badge](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/balzeberret/interval:all_time&label=All%20time&color=b8bb26)
+<h1>I'm Marc — Building interactive fullstack interactive systems</h1>
 ## 🛈 About Me
 
 - Currently working on:
@@ -6,10 +7,10 @@
   - Real-time data logging and automation solutions
 
 - Getting better at:
-  - Linux tooling and shell scripting  
+  - Improving my workflow via Linux tools and custom shell scripts  
   - DevOps practices (CI/CD, Docker, GitHub Actions)  
   - Embedded systems programming in C/C++  
-  - Go for backend and systems programming
+  - Building high-concurrency services in Go.
 
 - Interested in:
   - Retro gaming
@@ -49,5 +50,5 @@
 [![Email](https://img.shields.io/badge/-Email-d65d0e?style=flat&logo=gmail&logoColor=fbf1c7)](mailto:blaz.verdugo.s@gmail.com)
 
 #### Other github account
-
+> I contribute to enterprise-scale IoT solutions over at @Marc-Moonshot, while keeping personal projects here.
 [![Moonshot GitHub](https://img.shields.io/badge/-GitHub-1d2021?style=flat&logo=github&logoColor=fbf1c7)](https://github.com/Marc-Moonshot)
