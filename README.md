@@ -4,11 +4,11 @@
 ## ⌘ Featured Projects
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **Project Neptune** | Realtime water monitoring & control application | `Go`, `NexJS`, `Firestore` | MVP Complete - in production |
-| **Neptune Thespian** | Background worker that mananages scheduled device operations | `Typescript`, `NodeJS`, `Docker`, `Firestore` | MVP Complete - in production |
-| **Neptune NRW Reporter** | Non-revenue water computer and charting application | `Svelte`, `Python`, `Docker`, `Firestore`, `Postgres`, `Nginx` | Complete |
-| **Temporal Guru** | Custom caching service to reduce heavy API calls for NRW calculations | `Go`, `Docker`, `Postgres` | MVP Complete |
-| **Project Pinetree** | Real-time fire hazard monitoring & prediction system | `Typescript`, `Docker`, `Firestore`, `ESP-32`, `Python` | Complete |
+| **Project Neptune** | Realtime water monitoring & control application | ![Go](https://img.shields.io/badge/-Go-458588?style=flat&logo=go&logoColor=fbf1c7) ![Next.js](https://img.shields.io/badge/-NextJS-282828?style=flat&logo=nextdotjs&logoColor=fbf1c7) ![Firestore](https://img.shields.io/badge/-Firestore-fabd2f?style=flat&logo=firebase&logoColor=282828) | MVP Complete - in production |
+| **Neptune Thespian** | Background worker for scheduled device operations | ![TypeScript](https://img.shields.io/badge/-TypeScript-83a598?style=flat&logo=typescript&logoColor=282828) ![NodeJS](https://img.shields.io/badge/-NodeJS-98971a?style=flat&logo=nodedotjs&logoColor=fbf1c7) ![Docker](https://img.shields.io/badge/-Docker-458588?style=flat&logo=docker&logoColor=282828) ![Firestore](https://img.shields.io/badge/-Firestore-fabd2f?style=flat&logo=firebase&logoColor=282828) | MVP Complete - in production |
+| **Neptune NRW Reporter** | Non-revenue water computer and charting application | ![Svelte](https://img.shields.io/badge/-Svelte-d65d0e?style=flat&logo=svelte&logoColor=fbf1c7) ![Python](https://img.shields.io/badge/-Python-fabd2f?style=flat&logo=python&logoColor=282828) ![Docker](https://img.shields.io/badge/-Docker-458588?style=flat&logo=docker&logoColor=282828) ![PostgreSQL](https://img.shields.io/badge/-Postgres-83a598?style=flat&logo=postgresql&logoColor=282828) ![Nginx](https://img.shields.io/badge/-Nginx-689d6a?style=flat&logo=nginx&logoColor=282828) | Complete |
+| **Temporal Guru** | Custom caching service for heavy NRW calculations | ![Go](https://img.shields.io/badge/-Go-458588?style=flat&logo=go&logoColor=fbf1c7) ![Docker](https://img.shields.io/badge/-Docker-83a598?style=flat&logo=docker&logoColor=282828) ![PostgreSQL](https://img.shields.io/badge/-Postgres-458588?style=flat&logo=postgresql&logoColor=fbf1c7) | MVP Complete |
+| **Project Pinetree** | Real-time fire hazard monitoring & prediction system | ![TypeScript](https://img.shields.io/badge/-TypeScript-83a598?style=flat&logo=typescript&logoColor=282828) ![Docker](https://img.shields.io/badge/-Docker-458588?style=flat&logo=docker&logoColor=282828) ![ESP32](https://img.shields.io/badge/-ESP--32-d65d0e?style=flat&logo=espressif&logoColor=fbf1c7) ![Python](https://img.shields.io/badge/-Python-fabd2f?style=flat&logo=python&logoColor=282828) | Complete |
 
 ## ⅰ About Me
 
