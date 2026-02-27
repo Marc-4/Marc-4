@@ -1,15 +1,16 @@
 ![All Time Badge](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/balzeberret/interval:all_time&label=All%20time&color=b8bb26)
 <h1>I'm Marc — Building efficient and fully interactive systems.</h1>
 
-## Featured Projects
+## ⌘ Featured Projects
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **Project Neptune** | Fullstack Realtime water monitoring & control application | `Go`, `NexJS`, `Firestore` | MVP Complete - in production |
+| **Project Neptune** | Realtime water monitoring & control application | `Go`, `NexJS`, `Firestore` | MVP Complete - in production |
 | **Neptune Thespian** | Background worker that mananages scheduled device operations | `Typescript`, `NodeJS`, `Docker`, `Firestore` | MVP Complete - in production |
-| **Neptune NRW Reporter** | Fullstack Non-revenue water computer and charting application | `Svelte`, `Python`, `Docker`, `Firestore`, `Postgres`, `Nginx` | Complete |
+| **Neptune NRW Reporter** | Non-revenue water computer and charting application | `Svelte`, `Python`, `Docker`, `Firestore`, `Postgres`, `Nginx` | Complete |
 | **Temporal Guru** | Custom caching service to reduce heavy API calls for NRW calculations | `Go`, `Docker`, `Postgres` | MVP Complete |
+| **Project Pinetree** | Real-time fire hazard monitoring & prediction system | `Typescript`, `Docker`, `Firestore`, `ESP-32`, `Python` | Complete |
 
-## 🛈 About Me
+## ⅰ About Me
 
 - Currently working on:
   - Online Water monitoring and control systems
@@ -17,9 +18,9 @@
 
 - Getting better at:
   - Improving my workflow via Linux tools and custom shell scripts  
+  - Building high-concurrency services in Go.
   - DevOps practices (CI/CD, Docker, GitHub Actions)  
   - Embedded systems programming in C/C++
-  - Building high-concurrency services in Go.
 
 - Interested in:
   - Retro gaming
@@ -27,7 +28,7 @@
   - Microcontroller (Raspberry Pi, ESP32) integrations
   - Edge computing, IoT networks
 
-## ⚙ Languages and Tools
+## ✱ Languages and Tools
 
 ### Programming
 ![Go](https://img.shields.io/badge/-Go-83a598?style=flat&logo=go&logoColor=282828)
