@@ -54,8 +54,9 @@
 ![Wakapi Stats](https://github-readme-stats-vert-three-84.vercel.app/api/wakatime?username=balzeberret&api_domain=wakapi.dev&bg_color=282828&title_color=b8bb26&icon_color=b8bb26&text_color=fbf1c7&custom_title=Wakapi.dev+Stats+%28All+Time%29&layout=compact)
 
 ## ☏ Contact
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-458588?style=flat&logo=linkedin&logoColor=fbf1c7)](https://linkedin.com/in/marc-verdugo)
+<a href="https://linkedin.com/in/marc-verdugo" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-LinkedIn-458588?style=flat&logo=linkedin&logoColor=fbf1c7" />
+</a>
 [![Email](https://img.shields.io/badge/-Email-d65d0e?style=flat&logo=gmail&logoColor=fbf1c7)](mailto:blaze.verdugo.s@gmail.com)
 
 #### Other github account
