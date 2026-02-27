@@ -1,5 +1,5 @@
 ![All Time Badge](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/balzeberret/interval:all_time&label=All%20time&color=b8bb26)
-<h1>I'm Marc — Building efficient and fully interactive systems.</h1>
+<h1>I'm Marc. I build efficient and fully interactive systems.</h1>
 
 ## ⌘ Featured Projects
 | Project | Description | Tech Stack |
@@ -52,8 +52,7 @@
 
 ## Σ Stats
 ![wakapi activity](https://wakapi.dev/api/activity/chart/balzeberret.svg)
-![Wakapi Stats](https://github-readme-stats-vert-three-84.vercel.app/api/wakatime?username=balzeberret&api_domain=wakapi.dev&bg_color=282828&title_color=b8bb26&icon_color=b8bb26&text_color=fbf1c7&custom_title=Wakapi.dev+Stats+%28All+Time%29&layout=compact)
-
+![wakapi stats](https://github-readme-stats-vert-three-84.vercel.app/api/wakatime?username=balzeberret&api_domain=wakapi.dev&bg_color=282828&title_color=689d6a&&text_color=fbf1c7&custom_title=Wakapi.dev+Stats+(Top+10)&langs_count=10)
 ## ☏ Contact
 [![Email](https://img.shields.io/badge/-Email-d65d0e?style=flat&logo=gmail&logoColor=fbf1c7)](mailto:blaze.verdugo.s@gmail.com)
 
