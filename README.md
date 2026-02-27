@@ -56,7 +56,7 @@
 ## ☏ Contact
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-458588?style=flat&logo=linkedin&logoColor=fbf1c7)](https://linkedin.com/in/marc-verdugo)
-[![Email](https://img.shields.io/badge/-Email-d65d0e?style=flat&logo=gmail&logoColor=fbf1c7)](mailto:blaz.verdugo.s@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-d65d0e?style=flat&logo=gmail&logoColor=fbf1c7)](blaze.verdugo.s@gmail.com)
 
 #### Other github account
 > I contribute to enterprise-scale IoT solutions over at @Marc-Moonshot, while keeping personal projects here.
