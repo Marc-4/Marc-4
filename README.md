@@ -1,5 +1,14 @@
 ![All Time Badge](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/balzeberret/interval:all_time&label=All%20time&color=b8bb26)
-<h1>I'm Marc — Building interactive fullstack interactive systems</h1>
+<h1>I'm Marc — Building efficient and fully interactive systems.</h1>
+
+## Featured Work
+| Project | Description | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **Project Neptune** | Fullstack Realtime water monitoring & control application | `Go`, `NexJS`, `Firestore` | MVP Complete - in production |
+| **Neptune Thespian** | Background worker that mananages scheduled device operations | `Typescript`, `NodeJS`, `Docker`, `Firestore` | MVP Complete - in production |
+| **Neptune NRW Reporter** | Fullstack Non-revenue water computer and charting application | `Svelte`, `Python`, `Docker`, `Firestore`, `Postgres`, `Nginx` | Complete |
+| **Temporal Guru** | Custom caching service to reduce heavy API calls for NRW calculations | `Go`, `Docker`, `Postgres` | MVP Complete |
+
 ## 🛈 About Me
 
 - Currently working on:
@@ -9,7 +18,7 @@
 - Getting better at:
   - Improving my workflow via Linux tools and custom shell scripts  
   - DevOps practices (CI/CD, Docker, GitHub Actions)  
-  - Embedded systems programming in C/C++  
+  - Embedded systems programming in C/C++
   - Building high-concurrency services in Go.
 
 - Interested in:
