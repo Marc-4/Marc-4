@@ -1,6 +1,4 @@
 ![All Time Badge](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/balzeberret/interval:all_time&label=All%20time&color=b8bb26)
-<h1>I'm Marc. I build efficient and fully interactive systems.</h1>
-
 ## ⌘ Featured Projects
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
