@@ -10,20 +10,23 @@
 ## ⅰ About Me
 
 - Currently working on:
-  - Online Water monitoring and control systems
-  - Real-time data logging and automation solutions
+  - Decoupled content management systems
+  - Server grade hardware virtualization
 
-- Getting better at:
-  - Improving my workflow via Linux tools and custom shell scripts  
+- Skilled in:
+  - Fullstack web applications
+  - Linux-based servers
+  - Devops pipelines via Docker and Kubernetes, with CI/CD integration
+
+- Getting better at:  
   - Building high-concurrency services in Go.
-  - DevOps practices (CI/CD, Docker, GitHub Actions)  
   - Embedded systems programming in C/C++
 
 - Interested in:
   - Retro gaming
   - System architecture design
-  - Microcontroller (Raspberry Pi, ESP32) integrations
   - Edge computing, IoT networks
+  - Game modding
 
 ## ✱ Languages and Tools
 
@@ -52,8 +55,3 @@
 ![wakapi stats](https://github-readme-stats-vert-three-84.vercel.app/api/wakatime?username=balzeberret&api_domain=wakapi.dev&bg_color=282828&title_color=689d6a&&text_color=fbf1c7&custom_title=Wakapi.dev+Stats+(Top+10)&langs_count=10)
 ## ☏ Contact
 [![Email](https://img.shields.io/badge/-Email-d65d0e?style=flat&logo=gmail&logoColor=fbf1c7)](mailto:blaze.verdugo.s@gmail.com)
-
-#### Other github account
-> I contribute to enterprise-scale IoT solutions over at @Marc-Moonshot, while keeping personal projects here.
-
-[![Moonshot GitHub](https://img.shields.io/badge/-GitHub-1d2021?style=flat&logo=github&logoColor=fbf1c7)](https://github.com/Marc-Moonshot)
