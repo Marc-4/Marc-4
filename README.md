@@ -50,8 +50,5 @@
 ![Modbus](https://img.shields.io/badge/-Modbus-98971a?style=flat&logo=protocols&logoColor=fbf1c7)
 ![FFmpeg](https://img.shields.io/badge/-FFmpeg-689d6a?style=flat&logo=ffmpeg&logoColor=282828)
 
-## Σ Stats
-![wakapi activity](https://wakapi.dev/api/activity/chart/balzeberret.svg)
-![wakapi stats](https://github-readme-stats-vert-three-84.vercel.app/api/wakatime?username=balzeberret&api_domain=wakapi.dev&bg_color=282828&title_color=689d6a&&text_color=fbf1c7&custom_title=Wakapi.dev+Stats+(Top+10)&langs_count=10)
 ## ☏ Contact
-[![Email](https://img.shields.io/badge/-Email-d65d0e?style=flat&logo=gmail&logoColor=fbf1c7)](mailto:blaze.verdugo.s@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-d65d0e?style=flat&logo=gmail&logoColor=fbf1c7)](mailto:marc.moonshot@gmail.com)
