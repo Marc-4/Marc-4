@@ -16,11 +16,11 @@
 - Skilled in:
   - Fullstack web applications
   - Linux-based servers
-  - Devops pipelines via Docker and Kubernetes, with CI/CD integration
+  - Devops CI/CD pipelines via Docker, compose and github actions
 
 - Getting better at:  
-  - Building high-concurrency services in Go.
-  - Embedded systems programming in C/C++
+  - Building high-concurrency services in Go
+  - Embedded systems programming in C/C++ & zig
 
 - Interested in:
   - Retro gaming
