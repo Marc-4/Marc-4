@@ -1,23 +1,29 @@
-# ⅰ
-- Skills:
+**🛈**
+
+Skills:
   - Fullstack web applications
   - Linux-based servers
   - Devops CI/CD pipelines via Docker, compose and github actions
 
-- Interests:
+Interests:
   - Retro gaming
   - System architecture design
   - Edge computing, IoT networks
   - Game modding
 
-# ⏣ Languages
+---
+**⎙**
+
 ![TypeScript](https://img.shields.io/badge/-TypeScript-d3869b?style=flat&logo=typescript&logoColor=282828)
 ![Go](https://img.shields.io/badge/-Go-83a598?style=flat&logo=go&logoColor=282828)
 ![Python](https://img.shields.io/badge/-Python-fe8019?style=flat&logo=python&logoColor=282828)
 ![C](https://img.shields.io/badge/-C-fabd2f?style=flat&logo=c&logoColor=282828)
 ![C++](https://img.shields.io/badge/-C++-b8bb26?style=flat&logo=c%2B%2B&logoColor=282828)
 ![Shell](https://img.shields.io/badge/-Shell_Script-98971a?style=flat&logo=gnu-bash&logoColor=fbf1c7)
-# 🖳 Tools & Frameworks
+
+---
+**🖳**
+
 ![Linux](https://img.shields.io/badge/-Linux-fabd2f?style=flat&logo=linux&logoColor=282828)
 ![Docker](https://img.shields.io/badge/-Docker-83a598?style=flat&logo=docker&logoColor=282828)
 ![Git](https://img.shields.io/badge/-Git-d65d0e?style=flat&logo=git&logoColor=fbf1c7)
