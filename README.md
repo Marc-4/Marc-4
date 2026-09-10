@@ -3,7 +3,7 @@
 Skills:
   - Fullstack web applications
   - Linux-based servers
-  - Devops CI/CD pipelines via Docker, compose and github actions
+  - CI/CD pipelines via Docker, compose and github actions
 
 Interests:
   - Retro gaming
