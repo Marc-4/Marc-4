@@ -7,21 +7,12 @@
 | **Project Pinetree** | Real-time fire hazard monitoring & prediction system | ![TypeScript](https://img.shields.io/badge/-TypeScript-83a598?style=flat&logo=typescript&logoColor=282828) ![Next.js](https://img.shields.io/badge/-NextJS-282828?style=flat&logo=nextdotjs&logoColor=fbf1c7) ![ESP32](https://img.shields.io/badge/-ESP--32-d65d0e?style=flat&logo=espressif&logoColor=fbf1c7) ![Python](https://img.shields.io/badge/-Python-fabd2f?style=flat&logo=python&logoColor=282828) ![NodeJS](https://img.shields.io/badge/-NodeJS-98971a?style=flat&logo=nodedotjs&logoColor=fbf1c7) ![Firestore](https://img.shields.io/badge/-Firestore-fabd2f?style=flat&logo=firebase&logoColor=282828) ![Docker](https://img.shields.io/badge/-Docker-458588?style=flat&logo=docker&logoColor=282828) |
 
 ## ⅰ About Me
-
-- Currently working on:
-  - Decoupled content management systems
-  - Server grade hardware virtualization
-
-- Skilled in:
+- Skills:
   - Fullstack web applications
   - Linux-based servers
   - Devops CI/CD pipelines via Docker, compose and github actions
 
-- Getting better at:  
-  - Building high-concurrency services in Go
-  - Embedded systems programming in C/C++ & zig
-
-- Interested in:
+- Interests:
   - Retro gaming
   - System architecture design
   - Edge computing, IoT networks
@@ -29,14 +20,14 @@
 
 ## ✱ Languages and Tools
 
-### Programming
+## Programming
 ![TypeScript](https://img.shields.io/badge/-TypeScript-d3869b?style=flat&logo=typescript&logoColor=282828)
 ![Go](https://img.shields.io/badge/-Go-83a598?style=flat&logo=go&logoColor=282828)
 ![Python](https://img.shields.io/badge/-Python-fe8019?style=flat&logo=python&logoColor=282828)
 ![C](https://img.shields.io/badge/-C-fabd2f?style=flat&logo=c&logoColor=282828)
 ![C++](https://img.shields.io/badge/-C++-b8bb26?style=flat&logo=c%2B%2B&logoColor=282828)
 ![Shell](https://img.shields.io/badge/-Shell_Script-98971a?style=flat&logo=gnu-bash&logoColor=fbf1c7)
-### Tools & Frameworks
+## Tools & Frameworks
 ![Linux](https://img.shields.io/badge/-Linux-fabd2f?style=flat&logo=linux&logoColor=282828)
 ![Docker](https://img.shields.io/badge/-Docker-83a598?style=flat&logo=docker&logoColor=282828)
 ![Git](https://img.shields.io/badge/-Git-d65d0e?style=flat&logo=git&logoColor=fbf1c7)
