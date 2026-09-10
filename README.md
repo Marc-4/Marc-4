@@ -10,7 +10,7 @@
   - Edge computing, IoT networks
   - Game modding
 
-# ✱ ⏣ Languages
+# ⏣ Languages
 ![TypeScript](https://img.shields.io/badge/-TypeScript-d3869b?style=flat&logo=typescript&logoColor=282828)
 ![Go](https://img.shields.io/badge/-Go-83a598?style=flat&logo=go&logoColor=282828)
 ![Python](https://img.shields.io/badge/-Python-fe8019?style=flat&logo=python&logoColor=282828)
