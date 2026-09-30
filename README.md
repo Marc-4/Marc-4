@@ -15,7 +15,6 @@
 ![Go](https://img.shields.io/badge/-Go-83a598?style=flat&logo=go&logoColor=282828)
 ![Python](https://img.shields.io/badge/-Python-fe8019?style=flat&logo=python&logoColor=282828)
 ![C](https://img.shields.io/badge/-C-fabd2f?style=flat&logo=c&logoColor=282828)
-![C++](https://img.shields.io/badge/-C++-b8bb26?style=flat&logo=c%2B%2B&logoColor=282828)
 ![Shell](https://img.shields.io/badge/-Shell_Script-98971a?style=flat&logo=gnu-bash&logoColor=fbf1c7)
 
 ---
