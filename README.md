@@ -1,11 +1,9 @@
 **🛈**
 
-Skills:
   - Fullstack web applications
   - Linux-based servers
   - CI/CD pipelines via Docker, compose and github actions
 
-Interests:
   - Retro gaming
   - System architecture design
   - Edge computing, IoT networks
