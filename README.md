@@ -3,10 +3,11 @@
   - Fullstack web applications
   - Linux-based servers
   - CI/CD pipelines
-  - Retro gaming
-  - System architecture design
-  - Edge computing, IoT networks
-  - Game modding
+  - System Architecture Design
+  - IoT networks
+  - Retro Gaming
+  - Game Modding
+
 ![metrics](./github-metrics.svg)
 # **⛾**
 ![TypeScript](https://img.shields.io/badge/-TypeScript-d3869b?style=flat&logo=typescript&logoColor=282828)
