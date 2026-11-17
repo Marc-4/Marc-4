@@ -35,6 +35,7 @@ jobs:
 
           # wakatime activity
           plugin_wakatime: yes
+          plugin_wakatime_days: 365
           plugin_wakatime_user: 6710797d-0f26-41d3-91b8-a0a5e2f70ddc
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
