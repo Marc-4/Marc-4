@@ -7,7 +7,7 @@
   - System architecture design
   - Edge computing, IoT networks
   - Game modding
-
+![metrics](./github-metrics.svg)
 # **⛾**
 ![TypeScript](https://img.shields.io/badge/-TypeScript-d3869b?style=flat&logo=typescript&logoColor=282828)
 ![Go](https://img.shields.io/badge/-Go-83a598?style=flat&logo=go&logoColor=282828)
